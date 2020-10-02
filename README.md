@@ -5,7 +5,7 @@
 2. Emoji Cheat Sheet https://github.com/ikatyang/emoji-cheat-sheet/
 
 ## Lecture
-:star_struck Subhan Nooriansyah
+:star_struck: Subhan Nooriansyah
 
 ## Students
 - Agus Stiawan
