@@ -1,1 +1,7 @@
-# testing-repo
+# Detail Kelas OOP
+
+## Dosen
+
+## Mahasiswa
+
+- Agus Stiawan
