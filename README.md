@@ -1,4 +1,4 @@
-# Detail Kelas OOP
+# Detail Kelas OOP H6C.3
 
 ## Dosen
 
