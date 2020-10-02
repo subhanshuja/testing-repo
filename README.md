@@ -1,4 +1,4 @@
-# Detail Class OOP
+# Detail Kelas OOP H6C.3
 
 ## Reference using
 1. Markdown https://guides.github.com/features/mastering-markdown/
